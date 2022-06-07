@@ -1,0 +1,14 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÖíÕùÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ìôÕûÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ïïí
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(¿Ùã×úÿÿÿÿ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(¤“ã€
+h
+java:S3776W"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¤¸º
+a
+java:S1764o"KCorrect one of the identical sub-expressions on both sides of operator "&&"(Í¸­Î
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(³ˆæŸ
+A
+java:S1128
+"+Remove this unused import 'java.util.Date'.(¸…¼ü
